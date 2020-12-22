@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Marck+Script&display=swap');
+h1{
+    font-family: 'Lobster', cursive;
+    font-family: 'Marck Script', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Marck+Script&family=Paprika&display=swap');
+.tour_title{
+    font-family: 'Lobster', cursive;
+    font-family: 'Marck Script', cursive;
+    font-family: 'Paprika', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Lobster&family=Marck+Script&family=Paprika&display=swap');
+.tour_desk{
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Marck Script', cursive;
+    font-family: 'Paprika', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+.header{
+    font-family: 'Marck Script', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Frijole&family=Marck+Script&display=swap');
+.hh_title{
+    font-family: 'Frijole', cursive;
+    font-family: 'Marck Script', cursive;
+}
